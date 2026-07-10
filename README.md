@@ -1,2 +1,18 @@
-# CyberLab
-Repo about my CyberLab for training
+# CyberLab 
+Описание лаборатории и основых настроек. Используется для повышения компетенций в сфере кибербезопасности.
+
+## :microscope: Описание лаборатории
+
+Лаборатория создна на основе:
+- **CPU:** 10 x Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz (1 Socket)
+- **RAM:** 32 GB
+- **SSD:** 128 GB
+- **SSD:** 500 GB
+- **HDD:** 500 GB
+
+В качестве гипервизора используется [proxmox_ve_9.2](https://www.proxmox.com/).
+
+## :pencil: Логическая схема
+
+
+
