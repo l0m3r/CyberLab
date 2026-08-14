@@ -72,7 +72,7 @@
 
 | **Категория**        | **Инструменты**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
-| **Разведка**         | Nmap, Shodan, Recon-ng                                                          |
+| **Разведка**         | Nmap, Shodan, Recon-ng, curl                                                    |
 | **Веб-пентест**      | Burp Suite, SQLmap                                                              |
 | **Эксплуатация**     | Metasploit, Searchsploit, Exploit-DB, BeEF, Empire                              |
 | **Пост-эксплуатация**| Mimikatz, CrackMapExec, Impacket                                                |
@@ -87,6 +87,7 @@
 ---
 
 ## ⌨️ Полезные команды <a name="полезные-команды"></a>
+- [curl](https://github.com/l0m3r/CyberLab/blob/main/cheatsheet/curl.md)
 
 ---
 
